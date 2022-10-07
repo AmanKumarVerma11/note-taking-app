@@ -15,32 +15,9 @@ Much like a code-editor, Opus opens folders and allows you to edit the files ins
 
 ## Installation
 
-You can download the latest macOS binary from [releases](https://github.com/pacocoursey/Opus/releases/latest).
-
-Alternatively, you can run Opus locally from the command line:
-
 ```bash
 $ git clone https://github.com/AmanKumarVerma11/note-taking-app.git
 $ cd note-taking-app
 $ npm install
 $ npm start
 ```
-
-## Screenshots
-
-![Opus Light Mode Screenshot](assets/screenshot-light.png)
-![Opus Dark Mode Screenshot](assets/screenshot-dark.png)
-
-## More Features
-
-- Find, replace, goto functionalities.
-- Spellchecker, easily replace with suggestions via right-click.
-- Window settings (position, size, dark mode, etc...) are remembered between sessions.
-- Export notes to plain text, html, and markdown files.
-- Automatically ask to update note contents if it is edited elsewhere.
-- Document statistics shown in the footer (line count, word count, cursor position).
-
-## Related
-
-- [Left](https://github.com/hundredrabbits/left): distractionless plain text writing application.
-- [Quill](https://github.com/quilljs/quill): The rich text editor that runs inside Opus.
