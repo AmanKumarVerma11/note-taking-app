@@ -20,8 +20,8 @@ You can download the latest macOS binary from [releases](https://github.com/paco
 Alternatively, you can run Opus locally from the command line:
 
 ```bash
-$ git clone https://github.com/pacocoursey/Opus.git
-$ cd opus
+$ git clone https://github.com/AmanKumarVerma11/note-taking-app.git
+$ cd note-taking-app
 $ npm install
 $ npm start
 ```
