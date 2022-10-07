@@ -6,6 +6,8 @@ It aims to be a mix between a text-editor and code-editor. It is a Note taking W
 Much like a code-editor, You can have multiple notes open.
 You can also search through your notes.
 
+![Magic Notes Screenshot](assets/screenshot.png)
+
 ## Features
 
 - **📂 Multiple Notes**: In Magic Notes you can create multiple notes.
